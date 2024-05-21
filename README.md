@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dsm957
+- 👋 Hi, I’m Dsm957
 - 👀 I’m interested in: AI technology 
-- 🌱 I’m currently learning Search: recommendation advertising algorithm
+- 🌱 I’m currently learning: Search recommendation advertising algorithm
 - 💞️ I’m looking to collaborate on: Developing a common framework for AI
-- 📫 How to reach me: Please send me an email at dsm957@gmail.com
+- 📫 How to reach me: Please send me an email at whdsm957@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
